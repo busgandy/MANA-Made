@@ -4,8 +4,8 @@ import websocket, json, pprint, talib, numpy
 from binance.client import Client
 from binance.enums import *
 
-API_KEY = '2mUdcLnuagMAUE76eK9CoRFx6RUYDi3seHAU0wxERPoikFNqKrMbdJBxWFT3N5QN'
-API_SECRET = 'ja2rkx1M2NCkENElqRHEDvKqkPqhiXOSE8aDhVXCSjtHS2ALAUDoaKTVOIJgMVsn'
+API_KEY = ''
+API_SECRET = ''
 
 
 SOCKET = "wss://stream.binance.com:9443/ws/sandusdt@kline_1m"
